@@ -1,9 +1,17 @@
 # Face Detection using Microsoft Face API
 
-This demo uses Microsoft Face API to detect, classify faces in an image, and possibily to recognize the persons.
+This demo uses OpenCV and Microsoft Face API to detect, classify faces in an image, and possibily to recognize the persons.
+The puzzle is assembled live... stay tuned!
 
 * https://docs.microsoft.com/en-us/azure/cognitive-services/face/face-api-how-to-topics/howtoidentifyfacesinimage
 * https://westus.dev.cognitive.microsoft.com/docs/services/563879b61984550e40cbbe8d/operations/563879b61984550f30395236
+
+<table border = 0 bordercolor = black align = center>
+<tr>
+<th><img src="./test_openCV/face_eyes_detection/images/Screenshot_2017-06-15_12-47-50.png" alt="Lena's picture + random noise" border=3 height=300 ></img></th>
+<th><img src="./test_openCV/face_eyes_detection/images/Screenshot_2017-06-15_12-50-42.png" alt="Patrick's face captured without noise" border=3 height=300 ></img></th>
+</tr>
+</table>
 
 
 

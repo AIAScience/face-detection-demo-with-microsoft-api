@@ -1,4 +1,4 @@
-# Face Detection using Microsoft Face API
+# Face Detection using OpenCV & Microsoft Face API
 
 This demo uses OpenCV and Microsoft Face API to detect, classify faces in an image, and possibily to recognize the persons.
 The puzzle is assembled live... stay tuned!
